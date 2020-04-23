@@ -147,20 +147,20 @@ Help needed
 
 .social-link {
   justify-content: space-around;
-    text-decoration: none;
-    margin-right: 20px;
-    font-size: 1.9rem;
+  text-decoration: none;
+  margin-right: 20px;
+  font-size: 1.9rem;
 }
 
-.social-link:nth-child(1){
+.social-link:nth-child(1) {
   color: #00acee;
 }
 
-.social-link:nth-child(2){
+.social-link:nth-child(2) {
   color: #c4302b;
 }
 
-.social-link:nth-child(3){
+.social-link:nth-child(3) {
   color: #8a3ab9;
 }
 
@@ -198,7 +198,7 @@ Help needed
     font-size: 14px;
   }
   .hero-image img {
-    height: 55%;
+    height: 57%;
   }
 }
 
